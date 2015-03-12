@@ -1,0 +1,50 @@
+This file was created on March 12, 2015 for Udacity's 
+March 2015 Front-End Web Development nanodegree.
+
+Project 0 - Hello World.
+
+=========================================================================================
+
+How do I Complete this Project?
+1.  Download a quality text editor designed for developers. We recommend Sublime Text,
+    Atom.io or Notepad++.
+2.  Create a new directory on your computer to hold the work for this project.
+3.  Create an index.html file within this directory.
+4.  Within index.html - write valid HTML containing the proper 
+    DOCTYPE, <html>, <head> and <body> tags.
+5.  Within your page's body, add a paragraph that includes the phrase, "Hello World!"
+6.  Create a new directory, within your project directory, called css.
+7.  Create a new file, within the css directory, named style.css.
+8.  Properly link this CSS file from within your index.html.
+9.  Open your index.html file in your browser and review the results.
+10. Within your CSS, change the color of all text on the page using body { color: red; }
+11. Refresh the index.html file in your browser and review how your changes have altered 
+the page.
+
+=========================================================================================
+
+Feedback
+Your project will be reviewed by a Udacity reviewer for general feedback only, it will 
+not be evaluated for meeting specific technical expectations.
+
+
+Submission
+When you're ready to submit your project go back to your Nanodegree Portal, click on 
+Intro Project, and follow the instructions to submit.
+
+If you want to submit your code through a "Link to Project", upload your project files 
+onto Github and send us the link. We hope you submit using your Github because that is 
+how professionals submit their work. Please use a separate repository for each project.
+
+If you instead want to submit your code through "Upload a Zip", compress your project 
+directory, and submit that zip file.
+
+It can take us up to 2 weeks to evaluate the project so keep checking back for updates.
+
+If you are having any problems submitting your project or wish to check on the status 
+of your submission, please email us at frontend-project@udacity.com.
+
+Next Steps
+Now that you have the basic structure of an HTML page up and running, continue 
+on to the first project where you'll continue to enhance this into a comprehensive portfolio!
+
